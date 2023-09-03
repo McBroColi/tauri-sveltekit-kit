@@ -14,11 +14,6 @@ import ButtonSub from "$components/app/generic/buttons/ButtonSub.svelte";
 		<!-- Sidebar -->
 		<div class="w-1/4 flex flex-col flex-none min-w-[312px]">
 
-			<div class="flex flex-col items-center text-lg">
-				<ul>
-					<li>Chat Interface</li>
-				</ul>
-			</div>
 			
 		</div>
 
